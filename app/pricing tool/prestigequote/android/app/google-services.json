@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "574603232675",
+    "project_id": "prestigequote-c1e0f",
+    "storage_bucket": "prestigequote-c1e0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574603232675:android:39c130267cde3bf8f9c616",
+        "android_client_info": {
+          "package_name": "com.example.prestigequote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASDVLAj07l9j11Hwnx4kvzu-5k6kNJaSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
